@@ -1,4 +1,4 @@
-------
+---
 - name: use lb role playbook
   hosts: lb2
   user: ansible
